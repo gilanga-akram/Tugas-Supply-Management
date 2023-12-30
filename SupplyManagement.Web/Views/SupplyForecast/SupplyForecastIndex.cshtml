@@ -1,0 +1,23 @@
+@model IEnumerable<SupplyManagement.Web.Models.SupplyManagements>
+ 
+
+<br />
+<br />
+<table class="table">
+    <tdead>
+        <tr>
+            <th>Date</th>
+            <th>Temperature C</th>
+        </tr>
+    </tdead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Username</td>
+                <td>@item.Password</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

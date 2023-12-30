@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZZO+jFG2FnC2kKjLLAnlGkHjL3PcMUKkxAd3FQjdPZ4=",
+  "Source": "SupplyManagement.Web.Api",
+  "BasePath": "_content/SupplyManagement.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
